@@ -1,8 +1,10 @@
+import { useRoutes } from "react-router";
+
 function App() {
 
-  return (
+  const element = useRoutes(routes);
+  return <>{element}</>
 
-  );
 }
 
 export default App

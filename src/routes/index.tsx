@@ -1,4 +1,5 @@
 import { RouteObject } from "react-router";
+import Layout from "../layout";
 
 const routes: RouteObject[] = [
     {

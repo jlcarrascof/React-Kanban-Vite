@@ -32,3 +32,5 @@ export default {
 Stopped in 3:11
 
 TRICK: CTRL+D to mark the ocurrences before editing them.
+
+Stopped in 8:40

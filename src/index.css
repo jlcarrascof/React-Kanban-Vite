@@ -29,3 +29,17 @@ body::before {
 	filter: brightness(0.7);
 	z-index: -1;
 }
+
+::-webkit-scrollbar {
+	width: 8px;
+	height: 6px;
+}
+
+::-webkit-scrollbar * {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #f59e0e !important;
+	border-radius: 5px;
+}
